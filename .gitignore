@@ -1,5 +1,9 @@
 node_modules
 build_process_basic/node_modules
 build_process_browserify/node_modules
+Flux-Todolist/node_modules
+Flux-Todolist/.DS_store
+Flux-Todolist/public/bundle.js
+
 
 
