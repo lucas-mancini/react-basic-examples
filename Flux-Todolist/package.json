@@ -17,7 +17,7 @@
     "axios": "^0.21.1",
     "events": "^1.0.2",
     "flux": "^2.0.1",
-    "react": "^0.12.1"
+    "react": "^0.14.0"
   },
   "devDependencies": {
     "jsx-loader": "^0.12.2",
